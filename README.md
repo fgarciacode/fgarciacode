@@ -1,5 +1,5 @@
 ### Hi there 👋
-[:link: My Blog](https://gist.github.com/fgarcia-code)
+[:link: My Blog](https://fgarcia-code.github.io/)
 
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
