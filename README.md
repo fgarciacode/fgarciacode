@@ -5,6 +5,17 @@
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
 # About me
+## Principles
+* Users first, business next, details at the end
+* Respond to the changes
+* Build a shared understanding
+* Work collaboratively
+* Design, build, deliver and get feedback iteratively
+* Keep it Simple, Stupid (KISS)
+* Don't Repeat Yourself (DRY)
+* You Aren’t Gonna Need It (YAGNI)
+* Clean Code
+
 ## Software Stack
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=100/>](https://docs.github.com/en/get-started) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width=100/>](https://www.docker.com/get-started/) &nbsp;&nbsp;&nbsp;&nbsp;
