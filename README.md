@@ -1,16 +1,15 @@
+# Quicklinks
+[:link: My Blog](https://gist.github.com/fgarcia-code)
+
+[:octocat: My Gists](https://gist.github.com/fgarcia-code)
+
+# About me
 ### Hi there 👋
-
-<!--
-**fgarcia-code/fgarcia-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+* [Aro y Chaz - (2018 - Today)](https://aroychaz.com/)
+  * [Nrich](https://nrich.com/): Product Owner and Software Architect
+  * [RichIT](https://richit.ai/): Data Engineer
+* [GoSharp - (2015 - 2018)](https://www.go-sharp.ai/)
+  * Software Engineer
+* [Ahorra Seguros - (2014 - 2015)](https://ahorraseguros.mx/)
+  * Software Engineer
