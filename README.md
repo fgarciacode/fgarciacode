@@ -1,10 +1,10 @@
+### Hi there 👋
 # Quicklinks
 [:link: My Blog](https://gist.github.com/fgarcia-code)
 
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
 # About me
-### Hi there 👋
 ## Experience
 * [Aro y Chaz - (2018 - Today)](https://aroychaz.com/)
   * [Nrich](https://nrich.com/): Product Owner and Software Architect
