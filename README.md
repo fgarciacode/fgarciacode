@@ -19,14 +19,15 @@ I like share the things I learn, here you can find resources about my work.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px" /> LinkedIn](https://www.linkedin.com/in/fgarcia-code/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[👨 About me](./ABOUT.md)
+
 [📣 Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [❓ Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/q-a)
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px" /> LinkedIn](https://www.linkedin.com/in/fgarcia-code/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[👨 About me](./ABOUT.md)
 <!--[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="18px" /> YouTube](https://www.youtube.com/channel/UC3_XkE23qUU_x4aKV4ndYPg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
