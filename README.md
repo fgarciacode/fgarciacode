@@ -13,9 +13,9 @@ I love Software, :man_technologist: Software Engineering and :building_construct
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[:man: About me](./ABOUT.md)
-
 [:mega: Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [:question: Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/q-a)
+
+[:man: About me](./ABOUT.md)
