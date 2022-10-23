@@ -1,7 +1,11 @@
 ### Hi there 👋
 My name is Francisco, 
 
-I love Software, :man_technologist: Software Engineering and :building_construction: build software that deliver value both :ng_man: users and :office: business.
+I love Software, 👨‍💻 Software Engineering and 🏗️ build software that deliver value both 🙅‍♂️ users and 🏢 business.
+
+- 🏗️ I'm currently developing software products at [@RICHIT-AI](https://github.com/RICHIT-AI)
+- 🔭 I’m currently working on my blog site as a hobbie
+- 🌱 I’m currently mastering my software engineering skills to deliver useful working software ASAP
 
 ### Quicklinks
 I like share the things I learn, here you can find resources about my work. 
