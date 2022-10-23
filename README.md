@@ -14,14 +14,15 @@ I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build softwar
 I like share the things I learn, here you can find resources about my work. 
 🙏 I hope you find it useful.
 
-[🔗 My Blog](https://fgarcia-code.github.io/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[👨 About me](./ABOUT.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px" /> LinkedIn](https://www.linkedin.com/in/fgarcia-code/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[👨 About me](./ABOUT.md)
+[🔗 My Blog](https://fgarcia-code.github.io/) 
+
 
 [📣 Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
 &nbsp;
