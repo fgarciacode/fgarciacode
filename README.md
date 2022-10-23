@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is Francisco, I'm love Software, Software Engineering and build software that deliver valuer both users and business.
+My name is Francisco, I'm love Software, :man_technologist: Software Engineering and :building_construction: build software that deliver value both :ng_man: users and :office: business.
 
 ### Quicklinks
+:point_right: &nbsp;&nbsp; I like share the things I learn, here you can find resources about my work. :pray: I hope you find it useful.
+
 [:link: My Blog](https://fgarcia-code.github.io/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,4 +15,4 @@ My name is Francisco, I'm love Software, Software Engineering and build software
 [:mega: Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[:pray: Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
+[:question: Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
