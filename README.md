@@ -12,16 +12,18 @@ I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build softwar
 
 ### Quicklinks
 I like share the things I learn, here you can find resources about my work. 
-:pray: I hope you find it useful.
+🙏 I hope you find it useful.
 
-[:link: My Blog](https://fgarcia-code.github.io/) 
+[🔗 My Blog](https://fgarcia-code.github.io/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [:octocat: My Gists](https://gist.github.com/fgarcia-code)
 
-[:mega: Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
+[📣 Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[:question: Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/q-a)
+[❓ Q&A](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/q-a)
 
-[:man: About me](./ABOUT.md)
+<!--[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="18px" /> YouTube](https://www.youtube.com/channel/UC3_XkE23qUU_x4aKV4ndYPg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+[👨 About me](./ABOUT.md)
