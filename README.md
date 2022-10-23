@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Francisco, 
 
-I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build software that deliver value both 🙅‍♂️ users and 🏢 business.
+I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build software that deliver value both 🙅‍♂️ users and 🏢 business. 
+
+⏳Currently...
 
 - 🏗️ I'm developing software products at [@RICHIT-AI](https://github.com/RICHIT-AI)
 - 🔭 I’m working on my blog site as a hobbie
