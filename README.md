@@ -21,7 +21,7 @@ I like share the things I learn, here you can find resources about my work.
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18px" /> LinkedIn](https://www.linkedin.com/in/fgarcia-code/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[🔗 My Blog](https://fgarcia-code.github.io/) 
+[🔗 My Blog](https://fgarcia-code.com/) 
 
 
 [📣 Announcements](https://github.com/fgarcia-code/fgarcia-code/discussions/categories/announcements)
