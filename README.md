@@ -7,7 +7,7 @@ I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build softwar
 
 - 🏗️ I'm developing software products at [<img src="https://nrich.com/_next/image?url=%2Fimg%2Flogo.png&w=640&q=60" width="80px"/>](https://github.com/RICHIT-AI)
 - 🔭 I’m working on my blog site as a hobbie
-- 🌱 I’m mastering my software engineering skills to deliver useful working software ASAP
+- 💪 I’m mastering my software engineering skills to deliver useful working software ASAP
 - 👨‍👩‍👦 I'm a young father with a little pretty baby and a beautiful wife :heart:
 
 ### Quicklinks
