@@ -5,7 +5,7 @@ I love 💿 Software, 👨‍💻 Software Engineering and 🏗️ build softwar
 
 ⏳ Currently...
 
-- 🏗️ I'm developing software products at [<img src="http://urdaten.com/_next/image?url=%2Fimages%2Flogo-urdaten.png&w=128&q=75" width="80px"/>](https://github.com/RICHIT-AI)
+- 🏗️ I'm developing software products at [<img src="http://urdaten.com/_next/image?url=%2Fimages%2Flogo-urdaten.png&w=128&q=75" width="80px"/>](https://github.com/urdaten)
 - 🔭 I’m working on my blog site as a hobbie
 - 💪 I’m mastering my software engineering skills to deliver useful working software ASAP
 - 👨‍👩‍👦 I'm a young father with a little pretty baby and a beautiful wife :heart:
